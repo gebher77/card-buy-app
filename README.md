@@ -1,2 +1,10 @@
-# card-buy-java-challenge
-Software where the user can define the card limit and make purchases, deducting from the limit and returning error messages if necessary.
+# Card Limit Manager
+
+Card Limit Manager is a software application where users can define their card limit and make purchases. The application deducts from the limit and returns error messages if necessary.
+
+## Features
+
+- Define card limit
+- Make purchases
+- Automatic deduction from card limit
+- Error messages for exceeding the limit or other issues
