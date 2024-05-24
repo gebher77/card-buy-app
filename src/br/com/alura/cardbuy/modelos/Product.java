@@ -24,7 +24,7 @@ public class Product {
         scanner.nextLine();
     }
 
-    public void closseScanner() {
+    public void closeScanner() {
         scanner.close();
     }
 
