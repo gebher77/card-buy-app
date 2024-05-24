@@ -34,7 +34,7 @@ public class Main {
             options.setOptions();
             if(options.getOptions() == 0) {
                 card.closeScanner();
-                newProduct.closseScanner();
+                newProduct.closeScanner();
                 options.closeScanner();
             }
 
